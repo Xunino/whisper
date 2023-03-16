@@ -1,7 +1,6 @@
 numba
 numpy
 tqdm
-torch==1.13.1
 more-itertools
 tiktoken==0.3.1
 ffmpeg-python==0.2.0
